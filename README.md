@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1715212800&v=beta&t=WVCmBibVWstnYxvj48iLQueTYU5E20zjb7SLnGzvZN0">
 
-- 🌱 I’m currently learning **Frontend Frameworks, Backend Frameworks**
+- 🌱 I’m currently learning **Blockchain | ML**
 
 - 👨‍💻 All of my projects are available at [https://nikhilbhagat.com.np/](https://nikhilbhagat.com.np/)
 
