@@ -1,6 +1,6 @@
 ![logo](https://github.com/NikeGunn/NikeGunn/blob/main/Github%20Banner-nikhil%20bhagat.png)
 <h1 align="center">Hi 👋, I'm Nikhil Bhagat</h1>
-<h3 align="center">A passionate frontend [ React | React Native ✔ ] | Backend [ Django | Django Rest Framework ✔ ] developer from Nepal 🙏 </h3>
+<h3 align="center">Frontend [ React | React Native ✔ ] | Backend [ Django | Django Rest Framework ✔ ] Full stack developer from Nepal 🙏 </h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1715212800&v=beta&t=WVCmBibVWstnYxvj48iLQueTYU5E20zjb7SLnGzvZN0">
 
