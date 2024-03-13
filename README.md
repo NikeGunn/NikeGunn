@@ -1,4 +1,4 @@
-![logo](https://github.com/NikeGunn/NikeGunn/blob/main/Github%20Banner-nikhil%20bhagat.png)
+![logo](https://github.com/NikeGunn/NikeGunn/blob/main/nikhil-bhagat-banner-image-github.png)
 <h1 align="center">Hi 👋, I'm Nikhil Bhagat</h1>
 <h3 align="center"> Frontend - React JS, Redux | Android/IOS - React Native ✔| Backend Services - Django, Django Rest Framework ✔| Full-Stack Developer from Nepal 🙏 </h3>
 
