@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Bhagat</h1>
 <h3 align="center">Staff Engineering Leader | 11+ Years Architecting Enterprise-Scale Systems | LLM & Generative AI Expert | System Design </h3>
-
-<p align="center">
-    <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
 ---
 
 ### 🚀 What I'm passionate about
