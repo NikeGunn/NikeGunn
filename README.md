@@ -1,4 +1,4 @@
-![logo](https://github.com/NikeGunn/NikeGunn/blob/main/nikhil-bhagat-banner-image-github.png)
+![logo](https://github.com/NikeGunn/imagess/blob/main/Resume_Portfolio/Nikhil-bhagat-aiml_developer-python_developer_generativeai_developer.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Nikhil Bhagat</h1>
 <h3 align="center">Senior Software Engineer | 11+ Years Building Scalable Backends (TDD) | Creating Self-Learning Systems with Generative AI, RAG & CAG</h3>
