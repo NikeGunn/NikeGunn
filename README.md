@@ -1,88 +1,138 @@
-![logo](https://github.com/NikeGunn/imagess/blob/main/Resume_Portfolio/Nikhil-bhagat-aiml_developer-python_developer_generativeai_developer.png?raw=true)
-
-<h1 align="center">Hi 👋, I'm Nikhil Bhagat</h1>
-<h3 align="center">Senior Software Engineer | 11+ Years Building Scalable Backends (TDD) | Creating Self-Learning Systems with Generative AI, RAG & CAG</h3>
-
-## 💼 Professional Summary
-Senior backend engineer with 11+ years of experience architecting scalable, test-driven systems that serve millions of users. Specialized in building self-learning systems leveraging generative AI, retrieval-augmented generation (RAG), and cache-augmented generation (CAG) frameworks.
-
-## 🚀 Core Competencies
-- **Architecture**: Distributed systems design, microservices, event-driven architecture
-- **Engineering Practices**: TDD, CI/CD, code review leadership, mentoring
-- **AI/ML Integration**: LLMs, RAG/CAG pipelines, embeddings, zero-shot learning
-- **Performance**: System optimization, caching strategies, database tuning
-
-## 🛠️ Technical Expertise
-
-### Backend & Infrastructure
-- Python (Django, FastAPI), TypeScript/Node.js
-- AWS, GCP, Kubernetes, Docker
-- PostgreSQL, MongoDB, Redis
-- Apache Kafka, RabbitMQ
-
-### AI & Machine Learning
-- Generative AI pipelines & LLM integrations
-- Vector databases & semantic search
-- PyTorch, TensorFlow ecosystems
-- RAG & CAG framework implementation
-
-### Frontend Technologies
-- React.js, Next.js, Server Components
-- TypeScript, GraphQL
-- Tailwind CSS
-
-## 🌱 Current Focus
-- Building production-ready RAG and CAG systems
-- Optimizing vector databases for enterprise scale
-- Implementing cost-effective AI/ML pipelines
-- Integrating caching strategies for LLM response optimization
-
-## 📫 Contact & Portfolio
-- **Portfolio**: [nikhilbhagat.com.np](https://nikhilbhagat.com.np/)
-- **Email**: programmer@nikhilbhagat.com.np
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/bhagatnikhil/)
-
-## 🔗 Connect With Me
-<p align="left">
-    <a href="https://linkedin.com/in/nikhilbhagat-codewithnikhil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil bhagat" height="30" width="40" /></a>
-    <a href="https://kaggle.com/nautiluscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nautiluscode" height="30" width="40" /></a>
-    <a href="https://instagram.com/nikhil.programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.programmer" height="30" width="40" /></a>
-</p>
-
-## 🧰 Tech Stack
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-</p>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikegunn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most used languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=nikegunn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikegunn&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github.com/NikeGunn/imagess/blob/main/nikhil%20bhagat%20senior%20backend%20and%20devops%20lead.png?raw=true" width="100%" style="border-radius: 10px;" />
 </div>
 
-## 🏆 Professional Achievements
-- Implemented RAG and CAG systems that reduced customer support costs by 35%
-- Architected backend systems handling 10M+ daily requests
-- Reduced cloud infrastructure costs by 40% through architecture optimization
-- Led TDD implementation that reduced production bugs by 70%
+<div align="center">
+  <h1>Nikhil Bhagat</h1>
+  <h3>Senior Backend & DevOps Lead • Creator of Hauba AI • AI Systems Architect</h3>
+
+  <p>
+    <strong>8+ Years</strong> scaling distributed systems and building self-learning AI models<br/>
+    Specializing in <strong>Generative AI</strong>, <strong>RAG</strong> & <strong>MLOps</strong>
+  </p>
+
+  <br/>
+
+  <a href="https://nikhilbhagat.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:programmer@nikhilbhagat.com.np">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhagatnikhil/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🎯 What I Do
+
+```typescript
+const nikhil = {
+  title: "Senior Backend & DevOps Lead",
+  expertise: ["Generative AI", "RAG Systems", "MLOps", "Distributed Architecture"],
+  currentProject: "Hauba AI - Transformer-based LLM",
+  focus: "Building production-ready AI systems that scale",
+  impact: "10M+ daily requests • 35% cost reduction • 70% fewer bugs"
+};
+```
+
+## 🚀 Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+      <br/><strong>Backend Engineering</strong>
+      <br/>Python • Django • FastAPI
+      <br/>Node.js • TypeScript
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" />
+      <br/><strong>DevOps & Cloud</strong>
+      <br/>AWS • GCP • Kubernetes
+      <br/>Docker • CI/CD
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" />
+      <br/><strong>AI & ML</strong>
+      <br/>LLMs • RAG • Vector DBs
+      <br/>PyTorch • TensorFlow
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+      <br/><strong>Full Stack</strong>
+      <br/>React • Next.js • GraphQL
+      <br/>Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+## 🏗️ Architecture Philosophy
+
+> **"Building systems that learn, adapt, and scale"**
+
+- **🧠 AI-First Design**: Integrating intelligence at the architecture level
+- **⚡ Performance Obsessed**: Sub-100ms response times, even with AI
+- **🔄 Self-Healing**: Systems that monitor, learn, and auto-optimize
+- **📈 Scalable by Default**: From MVP to millions of users
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+
+**Cloud & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+**AI & ML**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikegunn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikegunn&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikegunn&theme=github-dark-blue&hide_border=true" />
+</div>
+
+## 🎯 Current Mission
+
+<div align="center">
+
+**Building Hauba AI** • A transformer-based LLM focused on production efficiency
+<br/>
+Implementing next-generation RAG systems with real-time learning capabilities
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "The best way to predict the future is to build the systems that create it"</i>
+  <br/><br/>
+</div>
