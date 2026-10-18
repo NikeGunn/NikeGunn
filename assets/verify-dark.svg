@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="334" viewBox="0 0 740 334" role="img" aria-labelledby="title desc">
+  <title id="title">Nikhil Bhagat builds AI systems that have to be right, not just fluent.</title>
+  <desc id="desc">A terminal session. A hype biography is typed out: Nikhil Bhagat is a world-class 10x AI genius whose models never hallucinate. A verifier strikes out world-class and 10x AI genius for lack of evidence, and never hallucinate as unfalsifiable. The rewrite keeps one cited sentence: Nikhil Bhagat builds AI systems that have to be right, not just fluent, citing NLP research, agents in production and open source.</desc>
+  <style>
+    text { font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 15px; white-space: pre; }
+    .l { clip-path: inset(0 100% 0 0); animation-name: type; animation-fill-mode: forwards; }
+    .s { stroke-dasharray: 1; stroke-dashoffset: 1; animation: strike 0.35s ease-out forwards; }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    @keyframes strike { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .l { clip-path: none; animation: none; }
+      .s { stroke-dashoffset: 0; animation: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="739" height="333" rx="10" fill="#0F1B2D" stroke="#24364F"/>
+  <text x="28" y="30" fill="#7D8FA8" font-size="12" style="font-size:12px">verify.log</text>
+  <line x1="0" y1="42" x2="740" y2="42" stroke="#24364F"/>
+  <text class="l" x="28" y="62" textLength="171" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.3s;animation-duration:0.6s;animation-timing-function:steps(20,jump-none)"><tspan fill="#7D8FA8">$ nikhil --describe</tspan></text>
+  <text class="l" x="28" y="87" textLength="684" lengthAdjust="spacingAndGlyphs" style="animation-delay:1s;animation-duration:2.2s;animation-timing-function:steps(77,jump-none)"><tspan fill="#D6DEE8">Nikhil Bhagat is a world-class 10x AI genius whose models never hallucinate.</tspan></text>
+  <text class="l" x="28" y="112" textLength="261" lengthAdjust="spacingAndGlyphs" style="animation-delay:3.5s;animation-duration:0.7s;animation-timing-function:steps(30,jump-none)"><tspan fill="#7D8FA8">$ verify --against ./evidence</tspan></text>
+  <text class="l" x="28" y="137" textLength="378" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.4s;animation-duration:0.5s;animation-timing-function:steps(43,jump-none)"><tspan fill="#F0697A">  ✗ world-class          </tspan><tspan fill="#7D8FA8">no evidence found</tspan></text>
+  <text class="l" x="28" y="162" textLength="378" lengthAdjust="spacingAndGlyphs" style="animation-delay:4.9s;animation-duration:0.5s;animation-timing-function:steps(43,jump-none)"><tspan fill="#F0697A">  ✗ 10x AI genius        </tspan><tspan fill="#7D8FA8">no evidence found</tspan></text>
+  <text class="l" x="28" y="187" textLength="450" lengthAdjust="spacingAndGlyphs" style="animation-delay:5.4s;animation-duration:0.6s;animation-timing-function:steps(51,jump-none)"><tspan fill="#F0697A">  ✗ never hallucinate    </tspan><tspan fill="#7D8FA8">unfalsifiable, so abstain</tspan></text>
+  <text class="l" x="28" y="212" textLength="144" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.3s;animation-duration:0.5s;animation-timing-function:steps(17,jump-none)"><tspan fill="#7D8FA8">$ rewrite --cite</tspan></text>
+  <text class="l" x="28" y="237" textLength="639" lengthAdjust="spacingAndGlyphs" style="animation-delay:6.9s;animation-duration:2s;animation-timing-function:steps(72,jump-none)"><tspan fill="#D6DEE8">Nikhil Bhagat builds AI systems that have to be right, not just fluent.</tspan></text>
+  <text class="l" x="28" y="262" textLength="621" lengthAdjust="spacingAndGlyphs" style="animation-delay:9s;animation-duration:1.3s;animation-timing-function:steps(70,jump-none)"><tspan fill="#7FB2FF">  ✓ </tspan><tspan fill="#D6DEE8">NLP research </tspan><tspan fill="#EBB654">[1]</tspan><tspan fill="#7FB2FF">   ✓ </tspan><tspan fill="#D6DEE8">agents in production </tspan><tspan fill="#EBB654">[2]</tspan><tspan fill="#7FB2FF">   ✓ </tspan><tspan fill="#D6DEE8">open source </tspan><tspan fill="#EBB654">[3]</tspan></text>
+  <text class="l" x="28" y="287" textLength="54" lengthAdjust="spacingAndGlyphs" style="animation-delay:10.5s;animation-duration:0.3s;animation-timing-function:steps(7,jump-none)"><tspan fill="#7D8FA8">exit 0</tspan></text>
+  <line class="s" x1="199" y1="82" x2="298" y2="82" stroke="#F0697A" stroke-width="2" pathLength="1" style="animation-delay:4.4s"/>
+  <line class="s" x1="307" y1="82" x2="424" y2="82" stroke="#F0697A" stroke-width="2" pathLength="1" style="animation-delay:4.9s"/>
+  <line class="s" x1="550" y1="82" x2="703" y2="82" stroke="#F0697A" stroke-width="2" pathLength="1" style="animation-delay:5.4s"/>
+</svg>
