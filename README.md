@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/verify-dark.svg">
-  <img src="assets/verify-light.svg" width="100%" alt="A terminal session. A hype biography is typed out: 'Nikhil Bhagat is a world-class 10x AI genius whose models never hallucinate.' A verifier strikes 'world-class' and '10x AI genius' for lack of evidence, and 'never hallucinate' as unfalsifiable. The rewrite keeps one cited sentence: 'Nikhil Bhagat builds AI systems that have to be right, not just fluent', citing NLP research [1], agents in production [2] and open source [3].">
-</picture>
-
 I'm Nikhil Bhagat, an AI/ML engineer and NLP researcher in Biratnagar, Nepal. I build LLM agents, retrieval systems and the evaluation that keeps them honest, mostly for languages that large models still get wrong.
 
 Read more on [my website](https://nikhilbhagat.com.np), find me on [LinkedIn](https://www.linkedin.com/in/bhagatnikhil/), [Hugging Face](https://huggingface.co/Haubaa) and [ORCID](https://orcid.org/0009-0008-9603-8746), or write to [programmer@nikhilbhagat.com.np](mailto:programmer@nikhilbhagat.com.np).
