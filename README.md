@@ -30,7 +30,7 @@ Now lead senior AI engineer at **[Kribaat](https://kribaat.com)** in Kathmandu, 
 ## Research
 
 - 📜 **[NEPVERSA](https://doi.org/10.5281/zenodo.22916911)** - 5 Acts, 455 provisions, 99 amendment operations and 181 point-in-time questions. Gold answers come from amendment footnotes, not from an LLM, and 61.3% of questions expect the system to abstain. The [code and data](https://github.com/NikeGunn/nyasathi-reserch) rerun every number offline, with all 455 provisions verified by SHA-256.
-- 🇳🇵 **[SANU](https://huggingface.co/Haubaa/SANU-AI-7B-v0.1-GGUF)** - a Nepali-English fine-tune of Qwen2.5-7B (QLoRA), released as GGUF for Ollama and llama.cpp. Where it failed on Nepali legal questions is what led to NEPVERSA.
+- 🏔️ **[SANU](https://huggingface.co/Haubaa/SANU-AI-7B-v0.1-GGUF)** - a Nepali-English fine-tune of Qwen2.5-7B (QLoRA), released as GGUF for Ollama and llama.cpp. Where it failed on Nepali legal questions is what led to NEPVERSA.
 
 ## In Production
 
